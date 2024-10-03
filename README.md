@@ -26,7 +26,7 @@ __http://s.id/kiiky__ -
       
 ### 2. Star wars Jedi: Fallen Order
 ![bandicam 2024-10-03 21-42-34-667](https://github.com/user-attachments/assets/3babf864-9943-4889-b935-7c4eeff96a5b)
-- [ ] Released
+- [X] Released
 
 ### 3. Spiderman Remastered
 ![Screenshot_6](https://github.com/user-attachments/assets/fc679434-a780-437f-ae2e-55f5977716a9)

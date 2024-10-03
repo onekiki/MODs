@@ -16,7 +16,7 @@ Tutorial:
 2. Cari lokasi game, contoh:
    'C:\Program Files (x86)\Steam\steamapps\common\Star Wars Jedi Fallen Order'
 3. Masuk ke folder : '\SwGame\Content\Paks\'
-4. Copy folder '~mods' yang telah kamu ekstrak lalu paste di dalam folder 'Paks'
+4. Copy folder '~mods' yang telah kamu simpan tadi, lalu paste di dalam folder 'Paks'
 5. Selesai, Enjoy :)
 
 Punya pertanyaan bisa hubungi discord saya 
